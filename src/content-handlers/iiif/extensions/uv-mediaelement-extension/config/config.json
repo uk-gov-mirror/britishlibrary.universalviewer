@@ -205,7 +205,7 @@
         "expandFullEnabled": false,
         "limitToRange": false,
         "manifestDisplayOrder": "",
-        "manifestExclude": "",
+        "manifestExclude": "RAQ_ID",
         "panelAnimationDuration": 250,
         "panelCollapsedWidth": 30,
         "panelExpandedWidth": 255,
